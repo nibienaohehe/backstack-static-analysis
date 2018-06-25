@@ -1,0 +1,17 @@
+tool_succeed:
+singleTask_Num:54  standard_clearTop_Num:219  singleTop_clearTop_Num:55  singleTop_Num:12  reorderToFront_Num:1  companion_finish_Num:445  standard_Num:1766
+
+shop_succeed:
+singleTask_Num:1  standard_clearTop_Num:23  singleTop_clearTop_Num:2  singleTop_Num:1  reorderToFront_Num:0  companion_finish_Num:51  standard_Num:400
+
+other_succeed:
+singleTask_Num:55  standard_clearTop_Num:72  singleTop_clearTop_Num:31  singleTop_Num:5  reorderToFront_Num:87  companion_finish_Num:184  standard_Num:690
+
+news_succeed:
+singleTask_Num:5  standard_clearTop_Num:260  singleTop_clearTop_Num:0  singleTop_Num:0  reorderToFront_Num:0  companion_finish_Num:108  standard_Num:645
+
+game_succeed:
+singleTask_Num:7  standard_clearTop_Num:1  singleTop_clearTop_Num:0  singleTop_Num:0  reorderToFront_Num:64  companion_finish_Num:92  standard_Num:420
+
+entertainment_succeed:
+singleTask_Num:41  standard_clearTop_Num:36  singleTop_clearTop_Num:21  singleTop_Num:1  reorderToFront_Num:18  companion_finish_Num:200  standard_Num:584

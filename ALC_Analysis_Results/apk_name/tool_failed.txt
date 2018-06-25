@@ -1,0 +1,9 @@
+io.trezor.app_12.apk
+org.gnu.icecat_520411.apk
+org.smssecure.smssecure_205.apk
+org.sufficientlysecure.keychain_48002.apk
+ch.hgdev.toposuite_69.apk
+org.kde.kdeconnect_tp_1660.apk
+de.baumann.sieben_35.apk
+com.nbossard.packlist_17.apk
+com.plusonelabs.calendar_414.apk

@@ -1,0 +1,11 @@
+com.vuze.android.remote_82.apk
+com.zoffcc.applications.trifa_10011.apk
+org.fdroid.fdroid_1001000.apk
+com.xabber.androiddev_348.apk
+org.transdroid.full_228.apk
+com.kaneoriley.cyanogenport.launcher3_1.apk
+org.transdroid.lite_229.apk
+org.mozilla.fennec_fdroid_570110.apk
+de.baumann.hhsmoodle_57.apk
+com.iskrembilen.quasseldroid_160.apk
+com.antoniotari.reactiveampacheapp_49.apk

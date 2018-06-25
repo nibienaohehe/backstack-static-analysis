@@ -1,0 +1,8 @@
+de.bitsharesmunich.smartcoinswallet_187.apk
+de.schildbach.wallet_319.apk
+com.btcontract.wallet_52.apk
+de.blau.android_207.apk
+de.schildbach.wallet_test_319.apk
+openfoodfacts.github.scrachx.openbeauty_37.apk
+openfoodfacts.github.scrachx.openfood_36.apk
+org.mozilla.mozstumbler_1080600.apk
