@@ -1,0 +1,62 @@
+//////////////////////////----Building ATG----///////////////////////////
+Name:  de.grobox.liberario_48.apk
+ATG Nodes:  2
+ATG Edges:  2
+Time  14274014
+invalidNum:0    singleTaskNum:0    standardNum:3    standard_clearTopNum:0    singleTop_clearTopNum:2    singleTopNum:0    reOrderToFrontNum:0    nonStandardNum:2
+//////////////////////////----Building ASTG1_default----///////////////////////////
+Name:  de.grobox.liberario_48.apk
+ASTG1 Nodes:  2
+ASTG1 Edges:  3
+Time  4087009
+//////////////////////////----Building ASTG2_default----///////////////////////////
+Name:  de.grobox.liberario_48.apk
+ASTG2 Nodes:  2
+ASTG2 Edges:  3
+Time  361722
+//////////////////////////----Building ASTG3_default----///////////////////////////
+Name:  de.grobox.liberario_48.apk
+ASTG3 Nodes:  2
+ASTG3 Edges:  3
+Time  219308
+maxInstancesNumForActivity:  {de.grobox.liberario.activities.MainActivity=1, de.grobox.liberario.activities.PickNetworkProviderActivity=1}
+//////////////////////////----Building ASTG4_default----///////////////////////////
+Name:  de.grobox.liberario_48.apk
+ASTG4 Nodes:  2
+ASTG4 Edges:  3
+Time  343072
+//////////////////////////----Building ASTG5_default----///////////////////////////
+Name:  de.grobox.liberario_48.apk
+ASTG5 Nodes:  2
+ASTG5 Edges:  3
+Time  220706
+//////////////////////////----Building ASTG1_Naive----///////////////////////////
+Name:  de.grobox.liberario_48.apk
+ASTG1 Nodes:  2
+ASTG1 Edges:  2
+Time  274898
+//////////////////////////----Building ASTG2_Naive----///////////////////////////
+Name:  de.grobox.liberario_48.apk
+ASTG2 Nodes:  4
+ASTG2 Edges:  6
+Time  245200
+//////////////////////////----Building ASTG3_Naive----///////////////////////////
+Name:  de.grobox.liberario_48.apk
+ASTG2 Nodes:  6
+ASTG2 Edges:  10
+Time  726005
+//////////////////////////----Building ASTG4_Naive----///////////////////////////
+Name:  de.grobox.liberario_48.apk
+ASTG4 Nodes:  8
+ASTG4 Edges:  14
+Time  959558
+//////////////////////////----Building ASTG5_Naive----///////////////////////////
+Name:  de.grobox.liberario_48.apk
+ASTG5 Nodes:  10
+ASTG5 Edges:  18
+Time  386103
+maxInstancesNumForActivity:  {de.grobox.liberario.activities.MainActivity=3, de.grobox.liberario.activities.PickNetworkProviderActivity=1}
+//////////////////////////----Summary----///////////////////////////
+containALC:  true
+containALC1:  false
+containALC2:  false

@@ -1,0 +1,10 @@
+digraph com.xargsgrep.portknocker_12 {
+  n1 [label="|<-top- com.xargsgrep.portknocker.activity.SettingsActivity,com.xargsgrep.portknocker.activity.HostListActivity -bot->|"]
+  n0 [label="|<-top- com.xargsgrep.portknocker.activity.HostListActivity -bot->|"]
+  n2 [label="|<-top- com.xargsgrep.portknocker.activity.SettingsActivityCompat,com.xargsgrep.portknocker.activity.HostListActivity -bot->|"]
+  n1 -> n0 [label="[{finish}]"]
+  n0 -> n1 [label="[{standard}]"]
+  n0 -> n2 [label="[{standard}]"]
+  n2 -> n0 [label="[{finish}]"]
+}
+

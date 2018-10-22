@@ -1,0 +1,62 @@
+//////////////////////////----Building ATG----///////////////////////////
+Name:  com.frrahat.quransimple_151.apk
+ATG Nodes:  10
+ATG Edges:  12
+Time  73094694
+invalidNum:0    singleTaskNum:0    standardNum:14    standard_clearTopNum:0    singleTop_clearTopNum:0    singleTopNum:0    reOrderToFrontNum:0    nonStandardNum:0
+//////////////////////////----Building ASTG1_default----///////////////////////////
+Name:  com.frrahat.quransimple_151.apk
+ASTG1 Nodes:  13
+ASTG1 Edges:  24
+Time  11207416
+//////////////////////////----Building ASTG2_default----///////////////////////////
+Name:  com.frrahat.quransimple_151.apk
+ASTG2 Nodes:  17
+ASTG2 Edges:  32
+Time  1784715
+//////////////////////////----Building ASTG3_default----///////////////////////////
+Name:  com.frrahat.quransimple_151.apk
+ASTG3 Nodes:  21
+ASTG3 Edges:  40
+Time  761638
+maxInstancesNumForActivity:  {com.frrahat.quransimple.InfoActivity=1, com.frrahat.quransimple.FileItemEditActivity=1, com.frrahat.quransimple.AdditTextActivity=1, com.frrahat.quransimple.BookmarkDisplayActivity=3, com.frrahat.quransimple.HelpActivity=1, com.frrahat.quransimple.CopyTextActivity=1, com.frrahat.quransimple.BookmarkEditActivity=3, com.frrahat.quransimple.SettingsActivity=1, com.frrahat.quransimple.SuraListActivity=1, com.frrahat.quransimple.MainActivity=1}
+//////////////////////////----Building ASTG4_default----///////////////////////////
+Name:  com.frrahat.quransimple_151.apk
+ASTG4 Nodes:  25
+ASTG4 Edges:  48
+Time  5615825
+//////////////////////////----Building ASTG5_default----///////////////////////////
+Name:  com.frrahat.quransimple_151.apk
+ASTG5 Nodes:  29
+ASTG5 Edges:  56
+Time  1008773
+//////////////////////////----Building ASTG1_Naive----///////////////////////////
+Name:  com.frrahat.quransimple_151.apk
+ASTG1 Nodes:  13
+ASTG1 Edges:  24
+Time  2776678
+//////////////////////////----Building ASTG2_Naive----///////////////////////////
+Name:  com.frrahat.quransimple_151.apk
+ASTG2 Nodes:  17
+ASTG2 Edges:  32
+Time  2911740
+//////////////////////////----Building ASTG3_Naive----///////////////////////////
+Name:  com.frrahat.quransimple_151.apk
+ASTG2 Nodes:  21
+ASTG2 Edges:  40
+Time  683446
+//////////////////////////----Building ASTG4_Naive----///////////////////////////
+Name:  com.frrahat.quransimple_151.apk
+ASTG4 Nodes:  25
+ASTG4 Edges:  48
+Time  3495191
+//////////////////////////----Building ASTG5_Naive----///////////////////////////
+Name:  com.frrahat.quransimple_151.apk
+ASTG5 Nodes:  29
+ASTG5 Edges:  56
+Time  811996
+maxInstancesNumForActivity:  {com.frrahat.quransimple.InfoActivity=1, com.frrahat.quransimple.FileItemEditActivity=1, com.frrahat.quransimple.AdditTextActivity=1, com.frrahat.quransimple.BookmarkDisplayActivity=3, com.frrahat.quransimple.HelpActivity=1, com.frrahat.quransimple.CopyTextActivity=1, com.frrahat.quransimple.BookmarkEditActivity=3, com.frrahat.quransimple.SettingsActivity=1, com.frrahat.quransimple.SuraListActivity=1, com.frrahat.quransimple.MainActivity=1}
+//////////////////////////----Summary----///////////////////////////
+containALC:  true
+containALC1:  true
+containALC2:  false

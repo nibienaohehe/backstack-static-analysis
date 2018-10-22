@@ -1,0 +1,16 @@
+digraph org.wahtod.wififixer_1165 {
+  n3 [label="org.wahtod.wififixer.ui.MainActivity"]
+  n1 [label="org.wahtod.wififixer.ui.PrefActivity"]
+  n2 [label="org.wahtod.wififixer.ui.HelpActivity"]
+  n0 [label="org.wahtod.wififixer.ui.About"]
+  n3 -> n2 [label="[{standard,clearTop}]"]
+  n3 -> n0 [label="[{standard,clearTop}]"]
+  n3 -> n1 [label="[{standard,clearTop}]"]
+  n2 -> n2 [label="[{standard,clearTop}]"]
+  n2 -> n0 [label="[{standard,clearTop}]"]
+  n2 -> n1 [label="[{standard,clearTop}]"]
+  n0 -> n2 [label="[{standard,clearTop}]"]
+  n0 -> n1 [label="[{standard,clearTop}]"]
+  n0 -> n0 [label="[{standard,clearTop}]"]
+}
+

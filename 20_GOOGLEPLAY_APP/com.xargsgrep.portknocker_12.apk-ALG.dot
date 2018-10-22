@@ -1,0 +1,14 @@
+digraph com.xargsgrep.portknocker_12 {
+  n4 [label="com.ipaulpro.afilechooser.FileChooserActivity"]
+  n5 [label="com.xargsgrep.portknocker.activity.EditHostActivity"]
+  n0 [label="com.xargsgrep.portknocker.widget.ConfigureWidgetActivity"]
+  n2 [label="com.xargsgrep.portknocker.activity.SettingsActivityCompat"]
+  n3 [label="com.xargsgrep.portknocker.activity.SettingsActivity"]
+  n1 [label="com.xargsgrep.portknocker.activity.HostListActivity"]
+  n5 -> n1 [label="[{standard,clearTop}]"]
+  n2 -> n1 [label="[{standard,clearTop}]"]
+  n3 -> n1 [label="[{standard,clearTop}]"]
+  n1 -> n3 [label="[{standard}]"]
+  n1 -> n2 [label="[{standard}]"]
+}
+

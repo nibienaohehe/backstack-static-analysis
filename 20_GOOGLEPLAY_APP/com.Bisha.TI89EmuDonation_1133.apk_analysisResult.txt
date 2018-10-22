@@ -1,0 +1,62 @@
+//////////////////////////----Building ATG----///////////////////////////
+Name:  com.Bisha.TI89EmuDonation_1133.apk
+ATG Nodes:  5
+ATG Edges:  5
+Time  218163547
+invalidNum:0    singleTaskNum:0    standardNum:5    standard_clearTopNum:0    singleTop_clearTopNum:0    singleTopNum:0    reOrderToFrontNum:0    nonStandardNum:0
+//////////////////////////----Building ASTG1_default----///////////////////////////
+Name:  com.Bisha.TI89EmuDonation_1133.apk
+ASTG1 Nodes:  6
+ASTG1 Edges:  10
+Time  110674955
+//////////////////////////----Building ASTG2_default----///////////////////////////
+Name:  com.Bisha.TI89EmuDonation_1133.apk
+ASTG2 Nodes:  6
+ASTG2 Edges:  10
+Time  961872
+//////////////////////////----Building ASTG3_default----///////////////////////////
+Name:  com.Bisha.TI89EmuDonation_1133.apk
+ASTG3 Nodes:  6
+ASTG3 Edges:  10
+Time  329303
+maxInstancesNumForActivity:  {com.graph89.emulationcore.RomManagerActivity=1, com.graph89.controls.FilePickerActivity=1, com.graph89.emulationcore.BackupManager=1, com.graph89.emulationcore.ConfigurationPage=1, com.graph89.emulationcore.EmulatorActivity=1}
+//////////////////////////----Building ASTG4_default----///////////////////////////
+Name:  com.Bisha.TI89EmuDonation_1133.apk
+ASTG4 Nodes:  6
+ASTG4 Edges:  10
+Time  227747
+//////////////////////////----Building ASTG5_default----///////////////////////////
+Name:  com.Bisha.TI89EmuDonation_1133.apk
+ASTG5 Nodes:  6
+ASTG5 Edges:  10
+Time  164238
+//////////////////////////----Building ASTG1_Naive----///////////////////////////
+Name:  com.Bisha.TI89EmuDonation_1133.apk
+ASTG1 Nodes:  6
+ASTG1 Edges:  10
+Time  296959
+//////////////////////////----Building ASTG2_Naive----///////////////////////////
+Name:  com.Bisha.TI89EmuDonation_1133.apk
+ASTG2 Nodes:  6
+ASTG2 Edges:  10
+Time  217273
+//////////////////////////----Building ASTG3_Naive----///////////////////////////
+Name:  com.Bisha.TI89EmuDonation_1133.apk
+ASTG2 Nodes:  6
+ASTG2 Edges:  10
+Time  198670
+//////////////////////////----Building ASTG4_Naive----///////////////////////////
+Name:  com.Bisha.TI89EmuDonation_1133.apk
+ASTG4 Nodes:  6
+ASTG4 Edges:  10
+Time  197644
+//////////////////////////----Building ASTG5_Naive----///////////////////////////
+Name:  com.Bisha.TI89EmuDonation_1133.apk
+ASTG5 Nodes:  6
+ASTG5 Edges:  10
+Time  194631
+maxInstancesNumForActivity:  {com.graph89.emulationcore.RomManagerActivity=1, com.graph89.controls.FilePickerActivity=1, com.graph89.emulationcore.BackupManager=1, com.graph89.emulationcore.ConfigurationPage=1, com.graph89.emulationcore.EmulatorActivity=1}
+//////////////////////////----Summary----///////////////////////////
+containALC:  false
+containALC1:  false
+containALC2:  false

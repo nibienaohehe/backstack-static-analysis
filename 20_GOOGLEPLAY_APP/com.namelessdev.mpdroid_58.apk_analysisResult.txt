@@ -1,0 +1,62 @@
+//////////////////////////----Building ATG----///////////////////////////
+Name:  com.namelessdev.mpdroid_58.apk
+ATG Nodes:  3
+ATG Edges:  3
+Time  5258434
+invalidNum:0    singleTaskNum:0    standardNum:12    standard_clearTopNum:0    singleTop_clearTopNum:3    singleTopNum:0    reOrderToFrontNum:0    nonStandardNum:3
+//////////////////////////----Building ASTG1_default----///////////////////////////
+Name:  com.namelessdev.mpdroid_58.apk
+ASTG1 Nodes:  3
+ASTG1 Edges:  5
+Time  3582755
+//////////////////////////----Building ASTG2_default----///////////////////////////
+Name:  com.namelessdev.mpdroid_58.apk
+ASTG2 Nodes:  3
+ASTG2 Edges:  5
+Time  162454
+//////////////////////////----Building ASTG3_default----///////////////////////////
+Name:  com.namelessdev.mpdroid_58.apk
+ASTG3 Nodes:  3
+ASTG3 Edges:  5
+Time  251726
+maxInstancesNumForActivity:  {com.namelessdev.mpdroid.WarningActivity=1, com.namelessdev.mpdroid.WifiConnectionSettings=1, com.namelessdev.mpdroid.MainMenuActivity=1}
+//////////////////////////----Building ASTG4_default----///////////////////////////
+Name:  com.namelessdev.mpdroid_58.apk
+ASTG4 Nodes:  3
+ASTG4 Edges:  5
+Time  183794
+//////////////////////////----Building ASTG5_default----///////////////////////////
+Name:  com.namelessdev.mpdroid_58.apk
+ASTG5 Nodes:  3
+ASTG5 Edges:  5
+Time  137675
+//////////////////////////----Building ASTG1_Naive----///////////////////////////
+Name:  com.namelessdev.mpdroid_58.apk
+ASTG1 Nodes:  3
+ASTG1 Edges:  4
+Time  158961
+//////////////////////////----Building ASTG2_Naive----///////////////////////////
+Name:  com.namelessdev.mpdroid_58.apk
+ASTG2 Nodes:  6
+ASTG2 Edges:  10
+Time  219137
+//////////////////////////----Building ASTG3_Naive----///////////////////////////
+Name:  com.namelessdev.mpdroid_58.apk
+ASTG2 Nodes:  9
+ASTG2 Edges:  16
+Time  310393
+//////////////////////////----Building ASTG4_Naive----///////////////////////////
+Name:  com.namelessdev.mpdroid_58.apk
+ASTG4 Nodes:  12
+ASTG4 Edges:  22
+Time  487999
+//////////////////////////----Building ASTG5_Naive----///////////////////////////
+Name:  com.namelessdev.mpdroid_58.apk
+ASTG5 Nodes:  15
+ASTG5 Edges:  28
+Time  1089631
+maxInstancesNumForActivity:  {com.namelessdev.mpdroid.WarningActivity=1, com.namelessdev.mpdroid.MainMenuActivity=3, com.namelessdev.mpdroid.WifiConnectionSettings=3}
+//////////////////////////----Summary----///////////////////////////
+containALC:  true
+containALC1:  false
+containALC2:  false

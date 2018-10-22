@@ -1,0 +1,62 @@
+//////////////////////////----Building ATG----///////////////////////////
+Name:  org.wahtod.wififixer_1165.apk
+ATG Nodes:  4
+ATG Edges:  9
+Time  21735939
+invalidNum:0    singleTaskNum:0    standardNum:0    standard_clearTopNum:9    singleTop_clearTopNum:0    singleTopNum:0    reOrderToFrontNum:0    nonStandardNum:9
+//////////////////////////----Building ASTG1_default----///////////////////////////
+Name:  org.wahtod.wififixer_1165.apk
+ASTG1 Nodes:  10
+ASTG1 Edges:  24
+Time  4257746
+//////////////////////////----Building ASTG2_default----///////////////////////////
+Name:  org.wahtod.wififixer_1165.apk
+ASTG2 Nodes:  10
+ASTG2 Edges:  24
+Time  521356
+//////////////////////////----Building ASTG3_default----///////////////////////////
+Name:  org.wahtod.wififixer_1165.apk
+ASTG3 Nodes:  10
+ASTG3 Edges:  24
+Time  475250
+maxInstancesNumForActivity:  {org.wahtod.wififixer.ui.MainActivity=1, org.wahtod.wififixer.ui.PrefActivity=1, org.wahtod.wififixer.ui.HelpActivity=1, org.wahtod.wififixer.ui.About=1}
+//////////////////////////----Building ASTG4_default----///////////////////////////
+Name:  org.wahtod.wififixer_1165.apk
+ASTG4 Nodes:  10
+ASTG4 Edges:  24
+Time  321143
+//////////////////////////----Building ASTG5_default----///////////////////////////
+Name:  org.wahtod.wififixer_1165.apk
+ASTG5 Nodes:  10
+ASTG5 Edges:  24
+Time  313763
+//////////////////////////----Building ASTG1_Naive----///////////////////////////
+Name:  org.wahtod.wififixer_1165.apk
+ASTG1 Nodes:  10
+ASTG1 Edges:  18
+Time  357987
+//////////////////////////----Building ASTG2_Naive----///////////////////////////
+Name:  org.wahtod.wififixer_1165.apk
+ASTG2 Nodes:  38
+ASTG2 Edges:  74
+Time  985617
+//////////////////////////----Building ASTG3_Naive----///////////////////////////
+Name:  org.wahtod.wififixer_1165.apk
+ASTG2 Nodes:  138
+ASTG2 Edges:  274
+Time  6044144
+//////////////////////////----Building ASTG4_Naive----///////////////////////////
+Name:  org.wahtod.wififixer_1165.apk
+ASTG4 Nodes:  502
+ASTG4 Edges:  1002
+Time  14840596
+//////////////////////////----Building ASTG5_Naive----///////////////////////////
+Name:  org.wahtod.wififixer_1165.apk
+ASTG5 Nodes:  1846
+ASTG5 Edges:  3690
+Time  26966369
+maxInstancesNumForActivity:  {org.wahtod.wififixer.ui.MainActivity=1, org.wahtod.wififixer.ui.PrefActivity=1, org.wahtod.wififixer.ui.HelpActivity=3, org.wahtod.wififixer.ui.About=3}
+//////////////////////////----Summary----///////////////////////////
+containALC:  true
+containALC1:  false
+containALC2:  false

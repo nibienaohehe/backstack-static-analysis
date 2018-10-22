@@ -1,0 +1,13 @@
+digraph com.Bisha.TI89EmuDonation_1133 {
+  n1 [label="com.graph89.emulationcore.RomManagerActivity"]
+  n2 [label="com.graph89.controls.FilePickerActivity"]
+  n0 [label="com.graph89.emulationcore.BackupManager"]
+  n4 [label="com.graph89.emulationcore.ConfigurationPage"]
+  n3 [label="com.graph89.emulationcore.EmulatorActivity"]
+  n1 -> n2 [label="[{standard}]"]
+  n3 -> n4 [label="[{standard}]"]
+  n3 -> n1 [label="[{standard}]"]
+  n3 -> n2 [label="[{standard}]"]
+  n3 -> n0 [label="[{standard}]"]
+}
+

@@ -1,0 +1,62 @@
+//////////////////////////----Building ATG----///////////////////////////
+Name:  org.billthefarmer.shorty_107.apk
+ATG Nodes:  5
+ATG Edges:  5
+Time  94857240
+invalidNum:0    singleTaskNum:0    standardNum:4    standard_clearTopNum:1    singleTop_clearTopNum:0    singleTopNum:0    reOrderToFrontNum:0    nonStandardNum:1
+//////////////////////////----Building ASTG1_default----///////////////////////////
+Name:  org.billthefarmer.shorty_107.apk
+ASTG1 Nodes:  5
+ASTG1 Edges:  9
+Time  23554711
+//////////////////////////----Building ASTG2_default----///////////////////////////
+Name:  org.billthefarmer.shorty_107.apk
+ASTG2 Nodes:  5
+ASTG2 Edges:  9
+Time  320093
+//////////////////////////----Building ASTG3_default----///////////////////////////
+Name:  org.billthefarmer.shorty_107.apk
+ASTG3 Nodes:  5
+ASTG3 Edges:  9
+Time  332417
+maxInstancesNumForActivity:  {org.billthefarmer.shorty.LookupActivity=1, org.billthefarmer.shorty.MainActivity=1, org.billthefarmer.shorty.HelpActivity=1, org.billthefarmer.shorty.AboutActivity=1, org.billthefarmer.shorty.PathActivity=1}
+//////////////////////////----Building ASTG4_default----///////////////////////////
+Name:  org.billthefarmer.shorty_107.apk
+ASTG4 Nodes:  5
+ASTG4 Edges:  9
+Time  391380
+//////////////////////////----Building ASTG5_default----///////////////////////////
+Name:  org.billthefarmer.shorty_107.apk
+ASTG5 Nodes:  5
+ASTG5 Edges:  9
+Time  757816
+//////////////////////////----Building ASTG1_Naive----///////////////////////////
+Name:  org.billthefarmer.shorty_107.apk
+ASTG1 Nodes:  5
+ASTG1 Edges:  8
+Time  425570
+//////////////////////////----Building ASTG2_Naive----///////////////////////////
+Name:  org.billthefarmer.shorty_107.apk
+ASTG2 Nodes:  10
+ASTG2 Edges:  18
+Time  560332
+//////////////////////////----Building ASTG3_Naive----///////////////////////////
+Name:  org.billthefarmer.shorty_107.apk
+ASTG2 Nodes:  15
+ASTG2 Edges:  28
+Time  472616
+//////////////////////////----Building ASTG4_Naive----///////////////////////////
+Name:  org.billthefarmer.shorty_107.apk
+ASTG4 Nodes:  20
+ASTG4 Edges:  38
+Time  585677
+//////////////////////////----Building ASTG5_Naive----///////////////////////////
+Name:  org.billthefarmer.shorty_107.apk
+ASTG5 Nodes:  25
+ASTG5 Edges:  48
+Time  748647
+maxInstancesNumForActivity:  {org.billthefarmer.shorty.LookupActivity=3, org.billthefarmer.shorty.MainActivity=3, org.billthefarmer.shorty.HelpActivity=1, org.billthefarmer.shorty.PathActivity=1, org.billthefarmer.shorty.AboutActivity=1}
+//////////////////////////----Summary----///////////////////////////
+containALC:  true
+containALC1:  false
+containALC2:  false

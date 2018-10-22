@@ -1,0 +1,16 @@
+digraph de.grobox.liberario_48 {
+  n1 [label="de.grobox.liberario.activities.MapActivity"]
+  n2 [label="de.grobox.liberario.activities.MainActivity"]
+  n7 [label="de.grobox.liberario.activities.TripsActivity"]
+  n0 [label="de.grobox.liberario.activities.TransportrActivity"]
+  n3 [label="de.grobox.liberario.activities.TripDetailActivity"]
+  n5 [label="de.grobox.liberario.activities.AmbiguousLocationActivity"]
+  n4 [label="com.mikepenz.aboutlibraries.ui.LibsActivity"]
+  n6 [label="de.grobox.liberario.activities.PickNetworkProviderActivity"]
+  n1 -> n2 [label="[{singleTop,clearTop}]"]
+  n2 -> n6 [label="[{standard}]"]
+  n2 -> n2 [label="[{singleTop,clearTop}]"]
+  n3 -> n1 [label="[{standard}]"]
+  n3 -> n3 [label="[{standard}]"]
+}
+

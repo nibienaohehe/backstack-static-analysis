@@ -1,0 +1,10 @@
+digraph com.namelessdev.mpdroid_58 {
+  n2 [label="|<-top- com.namelessdev.mpdroid.WarningActivity,com.namelessdev.mpdroid.WifiConnectionSettings,com.namelessdev.mpdroid.MainMenuActivity -bot->|"]
+  n1 [label="|<-top- com.namelessdev.mpdroid.WifiConnectionSettings,com.namelessdev.mpdroid.MainMenuActivity -bot->|"]
+  n0 [label="|<-top- com.namelessdev.mpdroid.MainMenuActivity -bot->|"]
+  n2 -> n1 [label="[{finish}]"]
+  n1 -> n2 [label="[{standard}]"]
+  n1 -> n0 [label="[{finish}]"]
+  n0 -> n1 [label="[{standard}]"]
+}
+

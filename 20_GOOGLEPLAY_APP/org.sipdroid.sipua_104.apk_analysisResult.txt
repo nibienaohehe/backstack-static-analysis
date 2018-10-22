@@ -1,0 +1,62 @@
+//////////////////////////----Building ATG----///////////////////////////
+Name:  org.sipdroid.sipua_104.apk
+ATG Nodes:  3
+ATG Edges:  3
+Time  46887307
+invalidNum:0    singleTaskNum:0    standardNum:12    standard_clearTopNum:0    singleTop_clearTopNum:0    singleTopNum:0    reOrderToFrontNum:0    nonStandardNum:0
+//////////////////////////----Building ASTG1_default----///////////////////////////
+Name:  org.sipdroid.sipua_104.apk
+ASTG1 Nodes:  4
+ASTG1 Edges:  6
+Time  15227918
+//////////////////////////----Building ASTG2_default----///////////////////////////
+Name:  org.sipdroid.sipua_104.apk
+ASTG2 Nodes:  4
+ASTG2 Edges:  6
+Time  283072
+//////////////////////////----Building ASTG3_default----///////////////////////////
+Name:  org.sipdroid.sipua_104.apk
+ASTG3 Nodes:  4
+ASTG3 Edges:  6
+Time  880266
+maxInstancesNumForActivity:  {org.sipdroid.sipua.ui.Sipdroid=1, org.sipdroid.sipua.ui.Settings=1, org.sipdroid.sipua.ui.Activity2=1}
+//////////////////////////----Building ASTG4_default----///////////////////////////
+Name:  org.sipdroid.sipua_104.apk
+ASTG4 Nodes:  4
+ASTG4 Edges:  6
+Time  295462
+//////////////////////////----Building ASTG5_default----///////////////////////////
+Name:  org.sipdroid.sipua_104.apk
+ASTG5 Nodes:  4
+ASTG5 Edges:  6
+Time  234884
+//////////////////////////----Building ASTG1_Naive----///////////////////////////
+Name:  org.sipdroid.sipua_104.apk
+ASTG1 Nodes:  4
+ASTG1 Edges:  6
+Time  943242
+//////////////////////////----Building ASTG2_Naive----///////////////////////////
+Name:  org.sipdroid.sipua_104.apk
+ASTG2 Nodes:  4
+ASTG2 Edges:  6
+Time  2148215
+//////////////////////////----Building ASTG3_Naive----///////////////////////////
+Name:  org.sipdroid.sipua_104.apk
+ASTG2 Nodes:  4
+ASTG2 Edges:  6
+Time  7110374
+//////////////////////////----Building ASTG4_Naive----///////////////////////////
+Name:  org.sipdroid.sipua_104.apk
+ASTG4 Nodes:  4
+ASTG4 Edges:  6
+Time  183437
+//////////////////////////----Building ASTG5_Naive----///////////////////////////
+Name:  org.sipdroid.sipua_104.apk
+ASTG5 Nodes:  4
+ASTG5 Edges:  6
+Time  183344
+maxInstancesNumForActivity:  {org.sipdroid.sipua.ui.Sipdroid=1, org.sipdroid.sipua.ui.Settings=1, org.sipdroid.sipua.ui.Activity2=1}
+//////////////////////////----Summary----///////////////////////////
+containALC:  false
+containALC1:  false
+containALC2:  false

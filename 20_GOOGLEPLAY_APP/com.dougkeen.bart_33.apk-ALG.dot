@@ -1,0 +1,12 @@
+digraph com.dougkeen.bart_33 {
+  n0 [label="com.dougkeen.bart.activities.RoutesListActivity"]
+  n1 [label="com.dougkeen.bart.activities.ViewMapActivity"]
+  n3 [label="com.dougkeen.bart.activities.ViewDeparturesActivity"]
+  n2 [label="com.dougkeen.bart.activities.RoutesListActivity_"]
+  n0 -> n1 [label="[{standard}]"]
+  n3 -> n2 [label="[{standard}]"]
+  n3 -> n1 [label="[{standard}]"]
+  n2 -> n1 [label="[{standard}]"]
+  n2 -> n3 [label="[{standard}]"]
+}
+

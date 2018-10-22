@@ -1,0 +1,14 @@
+digraph eu.faircode.netguard_2016072421 {
+  n0 [label="eu.faircode.netguard.ActivityLog"]
+  n1 [label="eu.faircode.netguard.ActivityForwardApproval"]
+  n3 [label="eu.faircode.netguard.ActivityMain"]
+  n2 [label="eu.faircode.netguard.ActivitySettings"]
+  n6 [label="eu.faircode.netguard.ActivityDns"]
+  n4 [label="eu.faircode.netguard.ActivityPro"]
+  n5 [label="eu.faircode.netguard.ActivityForwarding"]
+  n3 -> n4 [label="[{standard}]"]
+  n3 -> n2 [label="[{standard}]"]
+  n3 -> n0 [label="[{standard}]"]
+  n3 -> n3 [label="[{singleTop}]"]
+}
+

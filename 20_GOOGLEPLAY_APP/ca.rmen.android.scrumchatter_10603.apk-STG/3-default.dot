@@ -1,0 +1,21 @@
+digraph ca.rmen.android.scrumchatter_10603 {
+  n1 [label="|<-top- ca.rmen.android.scrumchatter.chart.ChartsActivity,ca.rmen.android.scrumchatter.main.MainActivity -bot->|"]
+  n3 [label="|<-top- ca.rmen.android.scrumchatter.meeting.detail.MeetingActivity,ca.rmen.android.scrumchatter.main.MainActivity -bot->|"]
+  n4 [label="|<-top- ca.rmen.android.scrumchatter.about.AboutActivity,ca.rmen.android.scrumchatter.main.MainActivity -bot->|"]
+  n0 [label="|<-top- ca.rmen.android.scrumchatter.main.MainActivity -bot->|"]
+  n5 [label="|<-top- ca.rmen.android.scrumchatter.meeting.detail.MeetingActivity,ca.rmen.android.scrumchatter.settings.SettingsActivity,ca.rmen.android.scrumchatter.main.MainActivity -bot->|"]
+  n2 [label="|<-top- ca.rmen.android.scrumchatter.settings.SettingsActivity,ca.rmen.android.scrumchatter.main.MainActivity -bot->|"]
+  n1 -> n0 [label="[{finish}]"]
+  n3 -> n0 [label="[{finish}]"]
+  n3 -> n3 [label="[{singleTop}]"]
+  n4 -> n0 [label="[{finish}]"]
+  n0 -> n4 [label="[{standard}]"]
+  n0 -> n1 [label="[{standard}]"]
+  n0 -> n3 [label="[{singleTop}]"]
+  n0 -> n2 [label="[{standard}]"]
+  n5 -> n2 [label="[{finish}]"]
+  n5 -> n5 [label="[{singleTop}]"]
+  n2 -> n5 [label="[{singleTop}]"]
+  n2 -> n0 [label="[{finish}]"]
+}
+

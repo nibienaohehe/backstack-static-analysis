@@ -1,0 +1,20 @@
+digraph org.helllabs.android.xmp_21 {
+  n1 [label="org.helllabs.android.xmp.ListFormats"]
+  n3 [label="org.helllabs.android.xmp.PlayList"]
+  n2 [label="org.helllabs.android.xmp.Player"]
+  n4 [label="org.helllabs.android.xmp.PlaylistMenu"]
+  n0 [label="org.helllabs.android.xmp.Settings"]
+  n5 [label="org.helllabs.android.xmp.ModService"]
+  n7 [label="org.helllabs.android.xmp.About"]
+  n6 [label="org.helllabs.android.xmp.ModList"]
+  n3 -> n2 [label="[{singleTop}]"]
+  n3 -> n0 [label="[{standard,clearTop}]"]
+  n3 -> n4 [label="[{singleTask}]"]
+  n4 -> n6 [label="[{standard}]"]
+  n4 -> n0 [label="[{standard}]"]
+  n4 -> n3 [label="[{standard}]"]
+  n6 -> n4 [label="[{singleTask}]"]
+  n6 -> n0 [label="[{standard,clearTop}]"]
+  n6 -> n2 [label="[{singleTop}]"]
+}
+

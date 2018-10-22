@@ -1,0 +1,62 @@
+//////////////////////////----Building ATG----///////////////////////////
+Name:  cz.romario.opensudoku_1105.apk
+ATG Nodes:  9
+ATG Edges:  11
+Time  15102716
+invalidNum:0    singleTaskNum:0    standardNum:12    standard_clearTopNum:0    singleTop_clearTopNum:0    singleTopNum:0    reOrderToFrontNum:0    nonStandardNum:0
+//////////////////////////----Building ASTG1_default----///////////////////////////
+Name:  cz.romario.opensudoku_1105.apk
+ASTG1 Nodes:  9
+ASTG1 Edges:  16
+Time  11294251
+//////////////////////////----Building ASTG2_default----///////////////////////////
+Name:  cz.romario.opensudoku_1105.apk
+ASTG2 Nodes:  32
+ASTG2 Edges:  62
+Time  1258204
+//////////////////////////----Building ASTG3_default----///////////////////////////
+Name:  cz.romario.opensudoku_1105.apk
+ASTG3 Nodes:  81
+ASTG3 Edges:  160
+Time  3951511
+maxInstancesNumForActivity:  {cz.romario.opensudoku.gui.SudokuEditActivity=1, cz.romario.opensudoku.gui.GameSettingsActivity=1, cz.romario.opensudoku.gui.SudokuListActivity=3, cz.romario.opensudoku.gui.ImportSudokuActivity=3, cz.romario.opensudoku.gui.SudokuPlayActivity=1, cz.romario.opensudoku.gui.FolderListActivity=3, cz.romario.opensudoku.gui.SudokuImportActivity=1, cz.romario.opensudoku.gui.FileListActivity=3, cz.romario.opensudoku.gui.SudokuExportActivity=1}
+//////////////////////////----Building ASTG4_default----///////////////////////////
+Name:  cz.romario.opensudoku_1105.apk
+ASTG4 Nodes:  168
+ASTG4 Edges:  334
+Time  7804082
+//////////////////////////----Building ASTG5_default----///////////////////////////
+Name:  cz.romario.opensudoku_1105.apk
+ASTG5 Nodes:  305
+ASTG5 Edges:  608
+Time  10042698
+//////////////////////////----Building ASTG1_Naive----///////////////////////////
+Name:  cz.romario.opensudoku_1105.apk
+ASTG1 Nodes:  9
+ASTG1 Edges:  16
+Time  318452
+//////////////////////////----Building ASTG2_Naive----///////////////////////////
+Name:  cz.romario.opensudoku_1105.apk
+ASTG2 Nodes:  32
+ASTG2 Edges:  62
+Time  485492
+//////////////////////////----Building ASTG3_Naive----///////////////////////////
+Name:  cz.romario.opensudoku_1105.apk
+ASTG2 Nodes:  81
+ASTG2 Edges:  160
+Time  1548155
+//////////////////////////----Building ASTG4_Naive----///////////////////////////
+Name:  cz.romario.opensudoku_1105.apk
+ASTG4 Nodes:  168
+ASTG4 Edges:  334
+Time  4902760
+//////////////////////////----Building ASTG5_Naive----///////////////////////////
+Name:  cz.romario.opensudoku_1105.apk
+ASTG5 Nodes:  305
+ASTG5 Edges:  608
+Time  15008123
+maxInstancesNumForActivity:  {cz.romario.opensudoku.gui.SudokuEditActivity=1, cz.romario.opensudoku.gui.GameSettingsActivity=1, cz.romario.opensudoku.gui.SudokuListActivity=3, cz.romario.opensudoku.gui.ImportSudokuActivity=3, cz.romario.opensudoku.gui.SudokuPlayActivity=1, cz.romario.opensudoku.gui.FolderListActivity=3, cz.romario.opensudoku.gui.SudokuImportActivity=1, cz.romario.opensudoku.gui.FileListActivity=3, cz.romario.opensudoku.gui.SudokuExportActivity=1}
+//////////////////////////----Summary----///////////////////////////
+containALC:  true
+containALC1:  true
+containALC2:  false

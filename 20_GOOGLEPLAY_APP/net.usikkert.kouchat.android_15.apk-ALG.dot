@@ -1,0 +1,12 @@
+digraph net.usikkert.kouchat.android_15 {
+  n3 [label="net.usikkert.kouchat.android.controller.SendFileController"]
+  n1 [label="net.usikkert.kouchat.android.controller.MainChatController"]
+  n0 [label="net.usikkert.kouchat.android.controller.SettingsController"]
+  n4 [label="net.usikkert.kouchat.android.controller.ReceiveFileController"]
+  n2 [label="net.usikkert.kouchat.android.controller.PrivateChatController"]
+  n1 -> n0 [label="[{standard}]"]
+  n1 -> n2 [label="[{standard}]"]
+  n0 -> n1 [label="[{singleTask}]"]
+  n2 -> n1 [label="[{singleTask}]"]
+}
+

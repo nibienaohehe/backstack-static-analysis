@@ -1,0 +1,8 @@
+digraph de.grobox.liberario_48 {
+  n1 [label="|<-top- de.grobox.liberario.activities.PickNetworkProviderActivity,de.grobox.liberario.activities.MainActivity -bot->|"]
+  n0 [label="|<-top- de.grobox.liberario.activities.MainActivity -bot->|"]
+  n1 -> n0 [label="[{finish}]"]
+  n0 -> n1 [label="[{standard}]"]
+  n0 -> n0 [label="[{singleTop,clearTop}]"]
+}
+

@@ -1,0 +1,17 @@
+digraph de.jkliemann.parkendd_28 {
+  n3 [label="de.jkliemann.parkendd.ForecastActivity"]
+  n4 [label="de.jkliemann.parkendd.AboutActivity"]
+  n0 [label="de.jkliemann.parkendd.MapActivity"]
+  n5 [label="de.jkliemann.parkendd.MainActivity"]
+  n1 [label="de.jkliemann.parkendd.SettingsActivity"]
+  n2 [label="de.jkliemann.parkendd.PlaceActivity"]
+  n5 -> n3 [label="[{standard}]"]
+  n5 -> n0 [label="[{standard}]"]
+  n5 -> n4 [label="[{standard}]"]
+  n5 -> n1 [label="[{standard}]"]
+  n2 -> n3 [label="[{standard}]"]
+  n2 -> n1 [label="[{standard}]"]
+  n2 -> n0 [label="[{standard}]"]
+  n2 -> n4 [label="[{standard}]"]
+}
+

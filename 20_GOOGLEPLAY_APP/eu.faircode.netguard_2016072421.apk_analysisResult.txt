@@ -1,0 +1,62 @@
+//////////////////////////----Building ATG----///////////////////////////
+Name:  eu.faircode.netguard_2016072421.apk
+ATG Nodes:  4
+ATG Edges:  4
+Time  37201945
+invalidNum:0    singleTaskNum:0    standardNum:3    standard_clearTopNum:0    singleTop_clearTopNum:0    singleTopNum:1    reOrderToFrontNum:0    nonStandardNum:1
+//////////////////////////----Building ASTG1_default----///////////////////////////
+Name:  eu.faircode.netguard_2016072421.apk
+ASTG1 Nodes:  4
+ASTG1 Edges:  7
+Time  3862539
+//////////////////////////----Building ASTG2_default----///////////////////////////
+Name:  eu.faircode.netguard_2016072421.apk
+ASTG2 Nodes:  4
+ASTG2 Edges:  7
+Time  237855
+//////////////////////////----Building ASTG3_default----///////////////////////////
+Name:  eu.faircode.netguard_2016072421.apk
+ASTG3 Nodes:  4
+ASTG3 Edges:  7
+Time  235247
+maxInstancesNumForActivity:  {eu.faircode.netguard.ActivityLog=1, eu.faircode.netguard.ActivityMain=1, eu.faircode.netguard.ActivitySettings=1, eu.faircode.netguard.ActivityPro=1}
+//////////////////////////----Building ASTG4_default----///////////////////////////
+Name:  eu.faircode.netguard_2016072421.apk
+ASTG4 Nodes:  4
+ASTG4 Edges:  7
+Time  242648
+//////////////////////////----Building ASTG5_default----///////////////////////////
+Name:  eu.faircode.netguard_2016072421.apk
+ASTG5 Nodes:  4
+ASTG5 Edges:  7
+Time  250477
+//////////////////////////----Building ASTG1_Naive----///////////////////////////
+Name:  eu.faircode.netguard_2016072421.apk
+ASTG1 Nodes:  4
+ASTG1 Edges:  6
+Time  176769
+//////////////////////////----Building ASTG2_Naive----///////////////////////////
+Name:  eu.faircode.netguard_2016072421.apk
+ASTG2 Nodes:  8
+ASTG2 Edges:  14
+Time  237396
+//////////////////////////----Building ASTG3_Naive----///////////////////////////
+Name:  eu.faircode.netguard_2016072421.apk
+ASTG2 Nodes:  12
+ASTG2 Edges:  22
+Time  361558
+//////////////////////////----Building ASTG4_Naive----///////////////////////////
+Name:  eu.faircode.netguard_2016072421.apk
+ASTG4 Nodes:  16
+ASTG4 Edges:  30
+Time  463279
+//////////////////////////----Building ASTG5_Naive----///////////////////////////
+Name:  eu.faircode.netguard_2016072421.apk
+ASTG5 Nodes:  20
+ASTG5 Edges:  38
+Time  463462
+maxInstancesNumForActivity:  {eu.faircode.netguard.ActivityLog=1, eu.faircode.netguard.ActivityMain=3, eu.faircode.netguard.ActivitySettings=1, eu.faircode.netguard.ActivityPro=1}
+//////////////////////////----Summary----///////////////////////////
+containALC:  true
+containALC1:  false
+containALC2:  false

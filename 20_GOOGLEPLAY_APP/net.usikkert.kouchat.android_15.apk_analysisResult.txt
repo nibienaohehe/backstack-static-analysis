@@ -1,0 +1,62 @@
+//////////////////////////----Building ATG----///////////////////////////
+Name:  net.usikkert.kouchat.android_15.apk
+ATG Nodes:  3
+ATG Edges:  4
+Time  3238767
+invalidNum:0    singleTaskNum:2    standardNum:2    standard_clearTopNum:0    singleTop_clearTopNum:0    singleTopNum:0    reOrderToFrontNum:0    nonStandardNum:2
+//////////////////////////----Building ASTG1_default----///////////////////////////
+Name:  net.usikkert.kouchat.android_15.apk
+ASTG1 Nodes:  3
+ASTG1 Edges:  6
+Time  3677672
+//////////////////////////----Building ASTG2_default----///////////////////////////
+Name:  net.usikkert.kouchat.android_15.apk
+ASTG2 Nodes:  3
+ASTG2 Edges:  6
+Time  335510
+//////////////////////////----Building ASTG3_default----///////////////////////////
+Name:  net.usikkert.kouchat.android_15.apk
+ASTG3 Nodes:  3
+ASTG3 Edges:  6
+Time  269975
+maxInstancesNumForActivity:  {net.usikkert.kouchat.android.controller.MainChatController=1, net.usikkert.kouchat.android.controller.SettingsController=1, net.usikkert.kouchat.android.controller.PrivateChatController=1}
+//////////////////////////----Building ASTG4_default----///////////////////////////
+Name:  net.usikkert.kouchat.android_15.apk
+ASTG4 Nodes:  3
+ASTG4 Edges:  6
+Time  266532
+//////////////////////////----Building ASTG5_default----///////////////////////////
+Name:  net.usikkert.kouchat.android_15.apk
+ASTG5 Nodes:  3
+ASTG5 Edges:  6
+Time  254075
+//////////////////////////----Building ASTG1_Naive----///////////////////////////
+Name:  net.usikkert.kouchat.android_15.apk
+ASTG1 Nodes:  3
+ASTG1 Edges:  4
+Time  301975
+//////////////////////////----Building ASTG2_Naive----///////////////////////////
+Name:  net.usikkert.kouchat.android_15.apk
+ASTG2 Nodes:  9
+ASTG2 Edges:  16
+Time  472631
+//////////////////////////----Building ASTG3_Naive----///////////////////////////
+Name:  net.usikkert.kouchat.android_15.apk
+ASTG2 Nodes:  21
+ASTG2 Edges:  40
+Time  851796
+//////////////////////////----Building ASTG4_Naive----///////////////////////////
+Name:  net.usikkert.kouchat.android_15.apk
+ASTG4 Nodes:  45
+ASTG4 Edges:  88
+Time  1183650
+//////////////////////////----Building ASTG5_Naive----///////////////////////////
+Name:  net.usikkert.kouchat.android_15.apk
+ASTG5 Nodes:  93
+ASTG5 Edges:  184
+Time  2332723
+maxInstancesNumForActivity:  {net.usikkert.kouchat.android.controller.MainChatController=3, net.usikkert.kouchat.android.controller.SettingsController=3, net.usikkert.kouchat.android.controller.PrivateChatController=3}
+//////////////////////////----Summary----///////////////////////////
+containALC:  true
+containALC1:  false
+containALC2:  false

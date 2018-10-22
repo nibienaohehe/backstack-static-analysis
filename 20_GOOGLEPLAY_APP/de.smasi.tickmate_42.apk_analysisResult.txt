@@ -1,0 +1,62 @@
+//////////////////////////----Building ATG----///////////////////////////
+Name:  de.smasi.tickmate_42.apk
+ATG Nodes:  10
+ATG Edges:  11
+Time  16751867
+invalidNum:0    singleTaskNum:0    standardNum:11    standard_clearTopNum:0    singleTop_clearTopNum:0    singleTopNum:0    reOrderToFrontNum:0    nonStandardNum:0
+//////////////////////////----Building ASTG1_default----///////////////////////////
+Name:  de.smasi.tickmate_42.apk
+ASTG1 Nodes:  12
+ASTG1 Edges:  22
+Time  10810813
+//////////////////////////----Building ASTG2_default----///////////////////////////
+Name:  de.smasi.tickmate_42.apk
+ASTG2 Nodes:  12
+ASTG2 Edges:  22
+Time  10820208
+//////////////////////////----Building ASTG3_default----///////////////////////////
+Name:  de.smasi.tickmate_42.apk
+ASTG3 Nodes:  12
+ASTG3 Edges:  22
+Time  3491198
+maxInstancesNumForActivity:  {de.smasi.tickmate.views.AboutActivity=1, de.smasi.tickmate.views.EditTracksActivity=1, de.smasi.tickmate.Tickmate=1, de.smasi.tickmate.views.ShowTrackActivity=1, de.smasi.tickmate.views.SettingsActivity=1, de.smasi.tickmate.views.ChooseTrackActivity=1, de.smasi.tickmate.views.GroupPreferenceActivity=1, de.smasi.tickmate.views.ChooseGroupActivity=1, de.smasi.tickmate.views.TrackPreferenceActivity=1, de.smasi.tickmate.views.EditGroupsActivity=1}
+//////////////////////////----Building ASTG4_default----///////////////////////////
+Name:  de.smasi.tickmate_42.apk
+ASTG4 Nodes:  12
+ASTG4 Edges:  22
+Time  416457
+//////////////////////////----Building ASTG5_default----///////////////////////////
+Name:  de.smasi.tickmate_42.apk
+ASTG5 Nodes:  12
+ASTG5 Edges:  22
+Time  457857
+//////////////////////////----Building ASTG1_Naive----///////////////////////////
+Name:  de.smasi.tickmate_42.apk
+ASTG1 Nodes:  12
+ASTG1 Edges:  22
+Time  527373
+//////////////////////////----Building ASTG2_Naive----///////////////////////////
+Name:  de.smasi.tickmate_42.apk
+ASTG2 Nodes:  12
+ASTG2 Edges:  22
+Time  420790
+//////////////////////////----Building ASTG3_Naive----///////////////////////////
+Name:  de.smasi.tickmate_42.apk
+ASTG2 Nodes:  12
+ASTG2 Edges:  22
+Time  442791
+//////////////////////////----Building ASTG4_Naive----///////////////////////////
+Name:  de.smasi.tickmate_42.apk
+ASTG4 Nodes:  12
+ASTG4 Edges:  22
+Time  390750
+//////////////////////////----Building ASTG5_Naive----///////////////////////////
+Name:  de.smasi.tickmate_42.apk
+ASTG5 Nodes:  12
+ASTG5 Edges:  22
+Time  474711
+maxInstancesNumForActivity:  {de.smasi.tickmate.views.AboutActivity=1, de.smasi.tickmate.views.EditTracksActivity=1, de.smasi.tickmate.Tickmate=1, de.smasi.tickmate.views.ShowTrackActivity=1, de.smasi.tickmate.views.SettingsActivity=1, de.smasi.tickmate.views.ChooseTrackActivity=1, de.smasi.tickmate.views.GroupPreferenceActivity=1, de.smasi.tickmate.views.ChooseGroupActivity=1, de.smasi.tickmate.views.TrackPreferenceActivity=1, de.smasi.tickmate.views.EditGroupsActivity=1}
+//////////////////////////----Summary----///////////////////////////
+containALC:  false
+containALC1:  false
+containALC2:  false

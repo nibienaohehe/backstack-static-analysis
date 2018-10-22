@@ -1,0 +1,62 @@
+//////////////////////////----Building ATG----///////////////////////////
+Name:  protect.rentalcalc_4.apk
+ATG Nodes:  12
+ATG Edges:  15
+Time  4963829232
+invalidNum:0    singleTaskNum:0    standardNum:15    standard_clearTopNum:0    singleTop_clearTopNum:0    singleTopNum:0    reOrderToFrontNum:0    nonStandardNum:0
+//////////////////////////----Building ASTG1_default----///////////////////////////
+Name:  protect.rentalcalc_4.apk
+ASTG1 Nodes:  26
+ASTG1 Edges:  50
+Time  667489351
+//////////////////////////----Building ASTG2_default----///////////////////////////
+Name:  protect.rentalcalc_4.apk
+ASTG2 Nodes:  50
+ASTG2 Edges:  98
+Time  9963134
+//////////////////////////----Building ASTG3_default----///////////////////////////
+Name:  protect.rentalcalc_4.apk
+ASTG3 Nodes:  74
+ASTG3 Edges:  146
+Time  5840691
+maxInstancesNumForActivity:  {protect.rentalcalc.PropertyProjectionsActivity=1, protect.rentalcalc.PropertyWorksheetActivity=1, protect.rentalcalc.PropertyNotesActivity=1, protect.rentalcalc.PropertiesListActivity=1, protect.rentalcalc.ItemizeActivity=1, protect.rentalcalc.DictionaryActivity=1, protect.rentalcalc.PropertyOverviewActivity=3, protect.rentalcalc.PropertyViewActivity=3, protect.rentalcalc.PropertyPicturesActivity=1, protect.rentalcalc.PictureViewActivity=1, protect.rentalcalc.PropertySummaryActivity=1, protect.rentalcalc.IntroActivity=1}
+//////////////////////////----Building ASTG4_default----///////////////////////////
+Name:  protect.rentalcalc_4.apk
+ASTG4 Nodes:  98
+ASTG4 Edges:  194
+Time  11910638
+//////////////////////////----Building ASTG5_default----///////////////////////////
+Name:  protect.rentalcalc_4.apk
+ASTG5 Nodes:  122
+ASTG5 Edges:  242
+Time  10646465
+//////////////////////////----Building ASTG1_Naive----///////////////////////////
+Name:  protect.rentalcalc_4.apk
+ASTG1 Nodes:  26
+ASTG1 Edges:  50
+Time  10280356
+//////////////////////////----Building ASTG2_Naive----///////////////////////////
+Name:  protect.rentalcalc_4.apk
+ASTG2 Nodes:  50
+ASTG2 Edges:  98
+Time  938870
+//////////////////////////----Building ASTG3_Naive----///////////////////////////
+Name:  protect.rentalcalc_4.apk
+ASTG2 Nodes:  74
+ASTG2 Edges:  146
+Time  1276502
+//////////////////////////----Building ASTG4_Naive----///////////////////////////
+Name:  protect.rentalcalc_4.apk
+ASTG4 Nodes:  98
+ASTG4 Edges:  194
+Time  4568476
+//////////////////////////----Building ASTG5_Naive----///////////////////////////
+Name:  protect.rentalcalc_4.apk
+ASTG5 Nodes:  122
+ASTG5 Edges:  242
+Time  2526507
+maxInstancesNumForActivity:  {protect.rentalcalc.PropertyProjectionsActivity=1, protect.rentalcalc.PropertyWorksheetActivity=1, protect.rentalcalc.PropertyNotesActivity=1, protect.rentalcalc.PropertiesListActivity=1, protect.rentalcalc.ItemizeActivity=1, protect.rentalcalc.DictionaryActivity=1, protect.rentalcalc.PropertyOverviewActivity=3, protect.rentalcalc.PropertyViewActivity=3, protect.rentalcalc.PropertyPicturesActivity=1, protect.rentalcalc.PictureViewActivity=1, protect.rentalcalc.PropertySummaryActivity=1, protect.rentalcalc.IntroActivity=1}
+//////////////////////////----Summary----///////////////////////////
+containALC:  true
+containALC1:  true
+containALC2:  false

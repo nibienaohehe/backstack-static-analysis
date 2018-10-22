@@ -1,0 +1,62 @@
+//////////////////////////----Building ATG----///////////////////////////
+Name:  com.knirirr.beecount_118.apk
+ATG Nodes:  4
+ATG Edges:  7
+Time  33768596
+invalidNum:0    singleTaskNum:0    standardNum:1    standard_clearTopNum:10    singleTop_clearTopNum:3    singleTopNum:0    reOrderToFrontNum:0    nonStandardNum:13
+//////////////////////////----Building ASTG1_default----///////////////////////////
+Name:  com.knirirr.beecount_118.apk
+ASTG1 Nodes:  8
+ASTG1 Edges:  18
+Time  4006127
+//////////////////////////----Building ASTG2_default----///////////////////////////
+Name:  com.knirirr.beecount_118.apk
+ASTG2 Nodes:  8
+ASTG2 Edges:  18
+Time  1063557
+//////////////////////////----Building ASTG3_default----///////////////////////////
+Name:  com.knirirr.beecount_118.apk
+ASTG3 Nodes:  8
+ASTG3 Edges:  18
+Time  1200081
+maxInstancesNumForActivity:  {com.knirirr.beecount.SettingsActivity=1, com.knirirr.beecount.NewProjectActivity=1, com.knirirr.beecount.ListProjectActivity=1, com.knirirr.beecount.WelcomeActivity=1}
+//////////////////////////----Building ASTG4_default----///////////////////////////
+Name:  com.knirirr.beecount_118.apk
+ASTG4 Nodes:  8
+ASTG4 Edges:  18
+Time  315558
+//////////////////////////----Building ASTG5_default----///////////////////////////
+Name:  com.knirirr.beecount_118.apk
+ASTG5 Nodes:  8
+ASTG5 Edges:  18
+Time  301059
+//////////////////////////----Building ASTG1_Naive----///////////////////////////
+Name:  com.knirirr.beecount_118.apk
+ASTG1 Nodes:  8
+ASTG1 Edges:  14
+Time  427652
+//////////////////////////----Building ASTG2_Naive----///////////////////////////
+Name:  com.knirirr.beecount_118.apk
+ASTG2 Nodes:  40
+ASTG2 Edges:  78
+Time  3943025
+//////////////////////////----Building ASTG3_Naive----///////////////////////////
+Name:  com.knirirr.beecount_118.apk
+ASTG2 Nodes:  168
+ASTG2 Edges:  334
+Time  6086489
+//////////////////////////----Building ASTG4_Naive----///////////////////////////
+Name:  com.knirirr.beecount_118.apk
+ASTG4 Nodes:  680
+ASTG4 Edges:  1358
+Time  14938410
+//////////////////////////----Building ASTG5_Naive----///////////////////////////
+Name:  com.knirirr.beecount_118.apk
+ASTG5 Nodes:  2728
+ASTG5 Edges:  5454
+Time  34548090
+maxInstancesNumForActivity:  {com.knirirr.beecount.SettingsActivity=3, com.knirirr.beecount.NewProjectActivity=3, com.knirirr.beecount.ListProjectActivity=3, com.knirirr.beecount.WelcomeActivity=3}
+//////////////////////////----Summary----///////////////////////////
+containALC:  true
+containALC1:  false
+containALC2:  false

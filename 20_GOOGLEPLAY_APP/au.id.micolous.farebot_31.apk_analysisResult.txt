@@ -1,0 +1,62 @@
+//////////////////////////----Building ATG----///////////////////////////
+Name:  au.id.micolous.farebot_31.apk
+ATG Nodes:  4
+ATG Edges:  5
+Time  9517131
+invalidNum:0    singleTaskNum:0    standardNum:5    standard_clearTopNum:5    singleTop_clearTopNum:0    singleTopNum:0    reOrderToFrontNum:0    nonStandardNum:5
+//////////////////////////----Building ASTG1_default----///////////////////////////
+Name:  au.id.micolous.farebot_31.apk
+ASTG1 Nodes:  4
+ASTG1 Edges:  8
+Time  3865357
+//////////////////////////----Building ASTG2_default----///////////////////////////
+Name:  au.id.micolous.farebot_31.apk
+ASTG2 Nodes:  4
+ASTG2 Edges:  8
+Time  278936
+//////////////////////////----Building ASTG3_default----///////////////////////////
+Name:  au.id.micolous.farebot_31.apk
+ASTG3 Nodes:  4
+ASTG3 Edges:  8
+Time  266358
+maxInstancesNumForActivity:  {com.codebutler.farebot.activity.KeysActivity=1, com.codebutler.farebot.activity.FareBotPreferenceActivity=1, com.codebutler.farebot.activity.AboutActivity=1, com.codebutler.farebot.activity.MainActivity=1}
+//////////////////////////----Building ASTG4_default----///////////////////////////
+Name:  au.id.micolous.farebot_31.apk
+ASTG4 Nodes:  4
+ASTG4 Edges:  8
+Time  252737
+//////////////////////////----Building ASTG5_default----///////////////////////////
+Name:  au.id.micolous.farebot_31.apk
+ASTG5 Nodes:  4
+ASTG5 Edges:  8
+Time  263912
+//////////////////////////----Building ASTG1_Naive----///////////////////////////
+Name:  au.id.micolous.farebot_31.apk
+ASTG1 Nodes:  4
+ASTG1 Edges:  6
+Time  313659
+//////////////////////////----Building ASTG2_Naive----///////////////////////////
+Name:  au.id.micolous.farebot_31.apk
+ASTG2 Nodes:  12
+ASTG2 Edges:  22
+Time  470407
+//////////////////////////----Building ASTG3_Naive----///////////////////////////
+Name:  au.id.micolous.farebot_31.apk
+ASTG2 Nodes:  28
+ASTG2 Edges:  54
+Time  981230
+//////////////////////////----Building ASTG4_Naive----///////////////////////////
+Name:  au.id.micolous.farebot_31.apk
+ASTG4 Nodes:  60
+ASTG4 Edges:  118
+Time  1301028
+//////////////////////////----Building ASTG5_Naive----///////////////////////////
+Name:  au.id.micolous.farebot_31.apk
+ASTG5 Nodes:  124
+ASTG5 Edges:  246
+Time  2716856
+maxInstancesNumForActivity:  {com.codebutler.farebot.activity.KeysActivity=3, com.codebutler.farebot.activity.FareBotPreferenceActivity=3, com.codebutler.farebot.activity.AboutActivity=1, com.codebutler.farebot.activity.MainActivity=3}
+//////////////////////////----Summary----///////////////////////////
+containALC:  true
+containALC1:  false
+containALC2:  false

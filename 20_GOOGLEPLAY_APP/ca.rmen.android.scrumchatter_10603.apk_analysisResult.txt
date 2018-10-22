@@ -1,0 +1,62 @@
+//////////////////////////----Building ATG----///////////////////////////
+Name:  ca.rmen.android.scrumchatter_10603.apk
+ATG Nodes:  5
+ATG Edges:  6
+Time  24810867
+invalidNum:0    singleTaskNum:0    standardNum:5    standard_clearTopNum:0    singleTop_clearTopNum:0    singleTopNum:1    reOrderToFrontNum:0    nonStandardNum:1
+//////////////////////////----Building ASTG1_default----///////////////////////////
+Name:  ca.rmen.android.scrumchatter_10603.apk
+ASTG1 Nodes:  6
+ASTG1 Edges:  12
+Time  5282972
+//////////////////////////----Building ASTG2_default----///////////////////////////
+Name:  ca.rmen.android.scrumchatter_10603.apk
+ASTG2 Nodes:  6
+ASTG2 Edges:  12
+Time  269561
+//////////////////////////----Building ASTG3_default----///////////////////////////
+Name:  ca.rmen.android.scrumchatter_10603.apk
+ASTG3 Nodes:  6
+ASTG3 Edges:  12
+Time  1225134
+maxInstancesNumForActivity:  {ca.rmen.android.scrumchatter.settings.SettingsActivity=1, ca.rmen.android.scrumchatter.chart.ChartsActivity=1, ca.rmen.android.scrumchatter.main.MainActivity=1, ca.rmen.android.scrumchatter.meeting.detail.MeetingActivity=1, ca.rmen.android.scrumchatter.about.AboutActivity=1}
+//////////////////////////----Building ASTG4_default----///////////////////////////
+Name:  ca.rmen.android.scrumchatter_10603.apk
+ASTG4 Nodes:  6
+ASTG4 Edges:  12
+Time  527662
+//////////////////////////----Building ASTG5_default----///////////////////////////
+Name:  ca.rmen.android.scrumchatter_10603.apk
+ASTG5 Nodes:  6
+ASTG5 Edges:  12
+Time  1624532
+//////////////////////////----Building ASTG1_Naive----///////////////////////////
+Name:  ca.rmen.android.scrumchatter_10603.apk
+ASTG1 Nodes:  6
+ASTG1 Edges:  10
+Time  391395
+//////////////////////////----Building ASTG2_Naive----///////////////////////////
+Name:  ca.rmen.android.scrumchatter_10603.apk
+ASTG2 Nodes:  8
+ASTG2 Edges:  14
+Time  304319
+//////////////////////////----Building ASTG3_Naive----///////////////////////////
+Name:  ca.rmen.android.scrumchatter_10603.apk
+ASTG2 Nodes:  10
+ASTG2 Edges:  18
+Time  1364352
+//////////////////////////----Building ASTG4_Naive----///////////////////////////
+Name:  ca.rmen.android.scrumchatter_10603.apk
+ASTG4 Nodes:  12
+ASTG4 Edges:  22
+Time  420031
+//////////////////////////----Building ASTG5_Naive----///////////////////////////
+Name:  ca.rmen.android.scrumchatter_10603.apk
+ASTG5 Nodes:  14
+ASTG5 Edges:  26
+Time  1057844
+maxInstancesNumForActivity:  {ca.rmen.android.scrumchatter.settings.SettingsActivity=1, ca.rmen.android.scrumchatter.chart.ChartsActivity=1, ca.rmen.android.scrumchatter.main.MainActivity=1, ca.rmen.android.scrumchatter.meeting.detail.MeetingActivity=3, ca.rmen.android.scrumchatter.about.AboutActivity=1}
+//////////////////////////----Summary----///////////////////////////
+containALC:  true
+containALC1:  false
+containALC2:  false

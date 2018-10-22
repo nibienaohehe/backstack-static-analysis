@@ -1,0 +1,19 @@
+digraph com.Bisha.TI89EmuDonation_1133 {
+  n4 [label="|<-top- com.graph89.emulationcore.BackupManager,com.graph89.emulationcore.EmulatorActivity -bot->|"]
+  n2 [label="|<-top- com.graph89.emulationcore.RomManagerActivity,com.graph89.emulationcore.EmulatorActivity -bot->|"]
+  n5 [label="|<-top- com.graph89.controls.FilePickerActivity,com.graph89.emulationcore.RomManagerActivity,com.graph89.emulationcore.EmulatorActivity -bot->|"]
+  n3 [label="|<-top- com.graph89.controls.FilePickerActivity,com.graph89.emulationcore.EmulatorActivity -bot->|"]
+  n1 [label="|<-top- com.graph89.emulationcore.ConfigurationPage,com.graph89.emulationcore.EmulatorActivity -bot->|"]
+  n0 [label="|<-top- com.graph89.emulationcore.EmulatorActivity -bot->|"]
+  n4 -> n0 [label="[{finish}]"]
+  n2 -> n5 [label="[{standard}]"]
+  n2 -> n0 [label="[{finish}]"]
+  n5 -> n2 [label="[{finish}]"]
+  n3 -> n0 [label="[{finish}]"]
+  n1 -> n0 [label="[{finish}]"]
+  n0 -> n1 [label="[{standard}]"]
+  n0 -> n4 [label="[{standard}]"]
+  n0 -> n3 [label="[{standard}]"]
+  n0 -> n2 [label="[{standard}]"]
+}
+

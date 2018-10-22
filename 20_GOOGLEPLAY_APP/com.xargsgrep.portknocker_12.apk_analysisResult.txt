@@ -1,0 +1,62 @@
+//////////////////////////----Building ATG----///////////////////////////
+Name:  com.xargsgrep.portknocker_12.apk
+ATG Nodes:  3
+ATG Edges:  4
+Time  11625461
+invalidNum:0    singleTaskNum:0    standardNum:2    standard_clearTopNum:3    singleTop_clearTopNum:0    singleTopNum:0    reOrderToFrontNum:0    nonStandardNum:3
+//////////////////////////----Building ASTG1_default----///////////////////////////
+Name:  com.xargsgrep.portknocker_12.apk
+ASTG1 Nodes:  3
+ASTG1 Edges:  6
+Time  8602021
+//////////////////////////----Building ASTG2_default----///////////////////////////
+Name:  com.xargsgrep.portknocker_12.apk
+ASTG2 Nodes:  3
+ASTG2 Edges:  6
+Time  661808
+//////////////////////////----Building ASTG3_default----///////////////////////////
+Name:  com.xargsgrep.portknocker_12.apk
+ASTG3 Nodes:  3
+ASTG3 Edges:  6
+Time  405787
+maxInstancesNumForActivity:  {com.xargsgrep.portknocker.activity.SettingsActivityCompat=1, com.xargsgrep.portknocker.activity.SettingsActivity=1, com.xargsgrep.portknocker.activity.HostListActivity=1}
+//////////////////////////----Building ASTG4_default----///////////////////////////
+Name:  com.xargsgrep.portknocker_12.apk
+ASTG4 Nodes:  3
+ASTG4 Edges:  6
+Time  262748
+//////////////////////////----Building ASTG5_default----///////////////////////////
+Name:  com.xargsgrep.portknocker_12.apk
+ASTG5 Nodes:  3
+ASTG5 Edges:  6
+Time  474263
+//////////////////////////----Building ASTG1_Naive----///////////////////////////
+Name:  com.xargsgrep.portknocker_12.apk
+ASTG1 Nodes:  3
+ASTG1 Edges:  4
+Time  838230
+//////////////////////////----Building ASTG2_Naive----///////////////////////////
+Name:  com.xargsgrep.portknocker_12.apk
+ASTG2 Nodes:  9
+ASTG2 Edges:  16
+Time  1346219
+//////////////////////////----Building ASTG3_Naive----///////////////////////////
+Name:  com.xargsgrep.portknocker_12.apk
+ASTG2 Nodes:  21
+ASTG2 Edges:  40
+Time  1620266
+//////////////////////////----Building ASTG4_Naive----///////////////////////////
+Name:  com.xargsgrep.portknocker_12.apk
+ASTG4 Nodes:  45
+ASTG4 Edges:  88
+Time  2382485
+//////////////////////////----Building ASTG5_Naive----///////////////////////////
+Name:  com.xargsgrep.portknocker_12.apk
+ASTG5 Nodes:  93
+ASTG5 Edges:  184
+Time  4923685
+maxInstancesNumForActivity:  {com.xargsgrep.portknocker.activity.SettingsActivityCompat=3, com.xargsgrep.portknocker.activity.SettingsActivity=3, com.xargsgrep.portknocker.activity.HostListActivity=3}
+//////////////////////////----Summary----///////////////////////////
+containALC:  true
+containALC1:  false
+containALC2:  false

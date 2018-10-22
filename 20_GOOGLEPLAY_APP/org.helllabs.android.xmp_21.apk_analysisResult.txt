@@ -1,0 +1,62 @@
+//////////////////////////----Building ATG----///////////////////////////
+Name:  org.helllabs.android.xmp_21.apk
+ATG Nodes:  5
+ATG Edges:  9
+Time  5519139
+invalidNum:0    singleTaskNum:2    standardNum:5    standard_clearTopNum:2    singleTop_clearTopNum:0    singleTopNum:0    reOrderToFrontNum:0    nonStandardNum:4
+//////////////////////////----Building ASTG1_default----///////////////////////////
+Name:  org.helllabs.android.xmp_21.apk
+ASTG1 Nodes:  8
+ASTG1 Edges:  16
+Time  4029613
+//////////////////////////----Building ASTG2_default----///////////////////////////
+Name:  org.helllabs.android.xmp_21.apk
+ASTG2 Nodes:  8
+ASTG2 Edges:  16
+Time  1130928
+//////////////////////////----Building ASTG3_default----///////////////////////////
+Name:  org.helllabs.android.xmp_21.apk
+ASTG3 Nodes:  8
+ASTG3 Edges:  16
+Time  946304
+maxInstancesNumForActivity:  {org.helllabs.android.xmp.PlayList=1, org.helllabs.android.xmp.Player=1, org.helllabs.android.xmp.PlaylistMenu=1, org.helllabs.android.xmp.Settings=1, org.helllabs.android.xmp.ModList=1}
+//////////////////////////----Building ASTG4_default----///////////////////////////
+Name:  org.helllabs.android.xmp_21.apk
+ASTG4 Nodes:  8
+ASTG4 Edges:  16
+Time  2098442
+//////////////////////////----Building ASTG5_default----///////////////////////////
+Name:  org.helllabs.android.xmp_21.apk
+ASTG5 Nodes:  8
+ASTG5 Edges:  16
+Time  559248
+//////////////////////////----Building ASTG1_Naive----///////////////////////////
+Name:  org.helllabs.android.xmp_21.apk
+ASTG1 Nodes:  8
+ASTG1 Edges:  14
+Time  432280
+//////////////////////////----Building ASTG2_Naive----///////////////////////////
+Name:  org.helllabs.android.xmp_21.apk
+ASTG2 Nodes:  24
+ASTG2 Edges:  46
+Time  692586
+//////////////////////////----Building ASTG3_Naive----///////////////////////////
+Name:  org.helllabs.android.xmp_21.apk
+ASTG2 Nodes:  56
+ASTG2 Edges:  110
+Time  2602363
+//////////////////////////----Building ASTG4_Naive----///////////////////////////
+Name:  org.helllabs.android.xmp_21.apk
+ASTG4 Nodes:  120
+ASTG4 Edges:  238
+Time  5981928
+//////////////////////////----Building ASTG5_Naive----///////////////////////////
+Name:  org.helllabs.android.xmp_21.apk
+ASTG5 Nodes:  248
+ASTG5 Edges:  494
+Time  10457337
+maxInstancesNumForActivity:  {org.helllabs.android.xmp.PlayList=3, org.helllabs.android.xmp.Player=1, org.helllabs.android.xmp.PlaylistMenu=3, org.helllabs.android.xmp.Settings=1, org.helllabs.android.xmp.ModList=3}
+//////////////////////////----Summary----///////////////////////////
+containALC:  true
+containALC1:  false
+containALC2:  false

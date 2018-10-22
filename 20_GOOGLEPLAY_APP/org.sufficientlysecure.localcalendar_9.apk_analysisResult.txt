@@ -1,0 +1,62 @@
+//////////////////////////----Building ATG----///////////////////////////
+Name:  org.sufficientlysecure.localcalendar_9.apk
+ATG Nodes:  3
+ATG Edges:  3
+Time  18310252
+invalidNum:0    singleTaskNum:0    standardNum:2    standard_clearTopNum:1    singleTop_clearTopNum:0    singleTopNum:0    reOrderToFrontNum:0    nonStandardNum:1
+//////////////////////////----Building ASTG1_default----///////////////////////////
+Name:  org.sufficientlysecure.localcalendar_9.apk
+ASTG1 Nodes:  3
+ASTG1 Edges:  5
+Time  5180922
+//////////////////////////----Building ASTG2_default----///////////////////////////
+Name:  org.sufficientlysecure.localcalendar_9.apk
+ASTG2 Nodes:  3
+ASTG2 Edges:  5
+Time  672432
+//////////////////////////----Building ASTG3_default----///////////////////////////
+Name:  org.sufficientlysecure.localcalendar_9.apk
+ASTG3 Nodes:  3
+ASTG3 Edges:  5
+Time  283101
+maxInstancesNumForActivity:  {org.sufficientlysecure.localcalendar.ui.PreferencesActivity=1, org.sufficientlysecure.localcalendar.ui.MainActivity=1, org.sufficientlysecure.localcalendar.ui.EditActivity=1}
+//////////////////////////----Building ASTG4_default----///////////////////////////
+Name:  org.sufficientlysecure.localcalendar_9.apk
+ASTG4 Nodes:  3
+ASTG4 Edges:  5
+Time  252541
+//////////////////////////----Building ASTG5_default----///////////////////////////
+Name:  org.sufficientlysecure.localcalendar_9.apk
+ASTG5 Nodes:  3
+ASTG5 Edges:  5
+Time  269223
+//////////////////////////----Building ASTG1_Naive----///////////////////////////
+Name:  org.sufficientlysecure.localcalendar_9.apk
+ASTG1 Nodes:  3
+ASTG1 Edges:  4
+Time  451674
+//////////////////////////----Building ASTG2_Naive----///////////////////////////
+Name:  org.sufficientlysecure.localcalendar_9.apk
+ASTG2 Nodes:  6
+ASTG2 Edges:  10
+Time  335339
+//////////////////////////----Building ASTG3_Naive----///////////////////////////
+Name:  org.sufficientlysecure.localcalendar_9.apk
+ASTG2 Nodes:  9
+ASTG2 Edges:  16
+Time  414444
+//////////////////////////----Building ASTG4_Naive----///////////////////////////
+Name:  org.sufficientlysecure.localcalendar_9.apk
+ASTG4 Nodes:  12
+ASTG4 Edges:  22
+Time  491624
+//////////////////////////----Building ASTG5_Naive----///////////////////////////
+Name:  org.sufficientlysecure.localcalendar_9.apk
+ASTG5 Nodes:  15
+ASTG5 Edges:  28
+Time  496679
+maxInstancesNumForActivity:  {org.sufficientlysecure.localcalendar.ui.PreferencesActivity=3, org.sufficientlysecure.localcalendar.ui.MainActivity=3, org.sufficientlysecure.localcalendar.ui.EditActivity=1}
+//////////////////////////----Summary----///////////////////////////
+containALC:  true
+containALC1:  false
+containALC2:  false
